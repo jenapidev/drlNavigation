@@ -1,5 +1,4 @@
 # Deep reinforcement learning course: Project 1 - Navigation
----
 For this project, i did train an agent to navigate (and collect bananas!) in a large, square world.
 
 
@@ -14,7 +13,6 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes. 
 
 ## Getting Started
----
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
 
 Linux: click here
