@@ -14,15 +14,23 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ## Getting Started
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
+<ul>
+  <li>
+    Linux: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip">click here</a>
+  </li>
+  <li>
+    Mac OSX: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip">click here</a>
+  </li>
+  <li>
+    Windows (32-bit): <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip">click here</a>
+  </li>
+  <li>
+    Windows (64-bit): <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip">click here</a>
+  </li>
+</ul>
 
-Linux: click here
-Mac OSX: click here
-Windows (32-bit): click here
-Windows (64-bit): click here
-(For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
-
-(For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
+### Run The enviroment
 
 Place the file in the working folder and unzip the file
 
-Start working with Navigation.ipynb 
+Start working with Navigation.ipynb
